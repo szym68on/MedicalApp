@@ -13,12 +13,12 @@ export default {
       white: "#fff",
     },
     fontSize: {
-      titleBigPage: "3rem",
-      titlePage: "1.5rem",
-      navText: "1.125rem",
-      paragraphBig: "1.313rem",
-      titleSection: "2.25rem",
-      smallFont: "1rem",
+      titleBigPage: "3rem", //48px
+      titlePage: "1.5rem", //24px
+      navText: "1.125rem", //18px
+      paragraphBig: "1.313rem", //21 px
+      titleSection: "2.25rem", //36px
+      smallFont: "1rem", //16px
     },
     fontFamily: {
       body: ["Open Sans", "sans-serif"],
