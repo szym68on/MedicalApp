@@ -12,6 +12,7 @@ export default {
       blue: "#458FF6",
       lightBlue: "#99C2FA",
       white: "#fff",
+      lightBlueDot: "#5B9BF3",
     },
     fontSize: {
       titleBigPage: "3rem", //48px

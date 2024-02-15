@@ -1,7 +1,7 @@
-function ImgSectionLeading() {
+function ImgSectionLeading({ path }) {
   return (
     <div>
-      <img src="/images/illustration(2).png" alt="Illustration"></img>
+      <img src={`${path}`} alt="Illustration"></img>
     </div>
   );
 }

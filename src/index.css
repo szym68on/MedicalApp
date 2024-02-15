@@ -8,3 +8,27 @@
 .custom-link {
   @apply text-gray text-navText;
 }
+.bg-gradient {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(69, 143, 246, 1) 0%,
+    rgba(164, 221, 251, 1) 80%
+  );
+}
+.active-dot {
+  @apply w-1.5 h-1.5 md:w-2 md:h-2 rounded-full bg-lightBlueDot;
+}
+.disActive-dot {
+  @apply w-1.5 h-1.5 md:w-2 md:h-2 rounded-full bg-lightBlueDot opacity-50;
+}
+.darkGradient {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(33, 111, 219, 1) 0%,
+    rgba(95, 200, 255, 1) 100%
+  );
+}
