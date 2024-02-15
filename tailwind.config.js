@@ -10,6 +10,7 @@ export default {
       black: "#000",
       titleColor: "#233348",
       blue: "#458FF6",
+      lightBlue: "#99C2FA",
       white: "#fff",
     },
     fontSize: {
